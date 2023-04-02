@@ -47,3 +47,5 @@ Stepik.org
 Обо мне	Люблю учиться и развиваться. Прохожу курсы для получения новых знаний.
 
 ![image](https://img2.freepng.ru/20180710/zp/kisspng-emoji-peace-symbols-text-messaging-iphone-emoji-peace-5b44f12ec9a7d4.160943241531244846826.jpg)
+
+theme: Modernist
